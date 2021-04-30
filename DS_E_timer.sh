@@ -8,5 +8,5 @@ done
 git pull
 "E:\ds_bagaswaras\DesktopService.exe" $1 &
 
-start chrome https://transmedic.co.id:2222/app/Login
+start chrome http://200.200.200.200/app/Login
 
